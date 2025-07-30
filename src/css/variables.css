@@ -29,13 +29,13 @@
 
   /* color */
   --color-grayscale-0: #fff;
-  --color-grayscale-100: #CDD0C3;
+  --color-grayscale-100: #cdd0c3;
   --color-grayscale-1000: #112900;
-  --color-greenscale-100: #F1FFF2;
-  --color-greenscale-200: #CEE3BF;
-  --color-greenscale-300: #3A8C00;
-  --color-orangescale-100: #FF8F0E;
-  --color-yellowscale-100: #FFEA9F;
+  --color-greenscale-100: #f1fff2;
+  --color-greenscale-200: #cee3bf;
+  --color-greenscale-300: #3a8c00;
+  --color-orangescale-100: #ff8f0e;
+  --color-yellowscale-100: #ffea9f;
   --background-base: var(--color-grayscale-0);
   --font-base: var(--color-grayscale-1000);
   --underline-base: color-mix(in srgb, currentcolor, transparent 40%);
