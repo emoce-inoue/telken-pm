@@ -461,6 +461,7 @@
 
 .l-slider {
   border-block-start: 5.5px solid var(--color-greenscale-300);
+  transition: transform var(--speed-quick) ease-out;
 }
 
 .l-slider--fixed {
